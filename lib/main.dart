@@ -16,7 +16,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: FirebaseOptions(
-        apiKey: "AIzaSyCmW1JnTsGxCK7ZP7d6u0sNj3jP4ZEmzkE",
+        apiKey: "Enter Your api key",
         authDomain: "online-voting-app-80aab.firebaseapp.com",
         projectId: "online-voting-app-80aab",
         storageBucket: "online-voting-app-80aab.appspot.com",
